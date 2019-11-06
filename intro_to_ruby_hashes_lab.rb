@@ -22,7 +22,7 @@ end
 
 def my_hash_creator(key, value)
   created_hash={
-    :key => value
+    key => value
   }
 end
 
